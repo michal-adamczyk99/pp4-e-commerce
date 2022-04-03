@@ -1,10 +1,10 @@
-package pl.madamczyk;
+package pl.madamczyk.creditcard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
-import pl.madamczyk.creditcard.NameProvider;
-import pl.madamczyk.productcatalog.ProductCatalog;
+import pl.madamczyk.creditcard.creditcard.NameProvider;
+import pl.madamczyk.creditcard.productcatalog.ProductCatalog;
 
 import java.math.BigDecimal;
 

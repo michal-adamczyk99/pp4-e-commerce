@@ -1,4 +1,4 @@
-package pl.madamczyk.productcatalog;
+package pl.madamczyk.creditcard.productcatalog;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

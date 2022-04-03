@@ -1,4 +1,4 @@
-package pl.madamczyk.productcatalog;
+package pl.madamczyk.creditcard.productcatalog;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
