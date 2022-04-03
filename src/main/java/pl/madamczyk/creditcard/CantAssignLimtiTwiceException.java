@@ -1,4 +1,4 @@
-package pl.jkanclerz.creditcard;
+package pl.madamczyk.creditcard;
 
 public class CantAssignLimtiTwiceException extends IllegalStateException {
 }
